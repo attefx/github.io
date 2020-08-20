@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-  <h2>Second Heading</h2>
+<h1>Atte Uusitalo</h1>
+  <h2>Hyvä Graffa, Huono Koodi</h2>
    <a href="sivu2.html">Linkki</a>
 
-<p>My first paragraph.</p>
+<p>Lorem ipsum.</p>
 
 </body>
 </html>
